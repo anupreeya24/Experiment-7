@@ -6,7 +6,7 @@ using namespace std;
 
 int main() {
     int i, Max;
-    const int n = 5; // Size of the array
+    int n = 5; 
     int arr[n] = {10, 30, 20, 50, 5}; 
 
     Max = arr[0]; 
